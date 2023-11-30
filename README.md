@@ -1,4 +1,5 @@
-[![Video Preview](https://img.youtube.com/vi/ND4YaDZEtx8/0.jpg)](https://youtu.be/ND4YaDZEtx8)
+[![Video Preview](https://github.com/PROJECT-TRAIN/LSE-Health-UVigo/images/main.png)](https://youtu.be/ND4YaDZEtx8)
+
 
 # LSE-Health-UVigo Dataset
 
