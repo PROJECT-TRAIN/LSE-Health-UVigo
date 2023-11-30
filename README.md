@@ -49,11 +49,11 @@ We provide two options for distribution:
 - **Excel file**: Includes the links to download the videos from youtube, meta information and all the annotations (segments, glosses and fingerspelled words)
 - **Compressed file with the 273 annotation files using the ELAN program**: These files contein 3 Tiers explained below
 
-### 2. Direct download of:
+### 2. Download the videos from here after signing and submitting an EULA form
 
 ## License
 
-The dataset is provided under license [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en). Please review the license for terms of use.
+The dataset is provided under license [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en), that it is the same license assigned to the youtube videos by their owners. Please review the license for terms of use.
 
 ## Acknowledgments
 
