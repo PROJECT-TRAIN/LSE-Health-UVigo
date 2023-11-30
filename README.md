@@ -1,3 +1,5 @@
+[![Video Preview](https://img.youtube.com/vi/ND4YaDZEtx8/0.jpg)](https://youtu.be/ND4YaDZEtx8)
+
 # LSE-Health-UVigo Dataset
 
 The LSE-Health-UVigo dataset is a collection of 273 videos focused on health-related topics, presented in Spanish Sign Language (Lengua de Signos Española, LSE). The dataset offers comprehensive annotations and alignments for various linguistic elements within the videos.
@@ -36,6 +38,17 @@ Researchers and practitioners in machine translation, linguistics, healthcare, a
 - Training machine learning models for sign language translation, sign spotting and Isolated sign language recognition
 - Studying health-related sign language communication
 - Analyzing linguistic patterns and structures within sign language
+
+## Distribution
+
+We provide two options for distribution:
+
+### 1. Direct download of:
+
+- **Excel file**: Includes the links to download the videos from youtube, meta information and all the annotations (segments, glosses and fingerspelled words)
+- **Compressed file with the 273 annotation files using the ELAN program**: These files contein 3 Tiers explained below
+
+### 2. Direct download of:
 
 ## License
 
