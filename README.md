@@ -1,4 +1,4 @@
-[![Video Preview](https://github.com/PROJECT-TRAIN/LSE-Health-UVigo/images/Sample_ELAN-LSE-Health-UVigo.png)](https://youtu.be/ND4YaDZEtx8)
+[![Video Preview](https://github.com/PROJECT-TRAIN/LSE-Health-UVigo/blob/main/images/Sample_ELAN-LSE-Health-UVigo.png)](https://youtu.be/ND4YaDZEtx8)
 
 
 # LSE-Health-UVigo Dataset
