@@ -49,12 +49,12 @@ Researchers and practitioners in machine translation, linguistics, healthcare, a
 
 We provide two options for distribution:
 
-### 1. Direct download of:
+#### 1. Direct download of:
 
 - **[Excel file](https://github.com/PROJECT-TRAIN/LSE-Health-UVigo/blob/main/data/LSE-Health-UVigo.xlsx)**: Includes the links to download the videos from youtube, meta data and all the annotations (segments, glosses and fingerspelled words)
 - **[273 annotation files](https://github.com/PROJECT-TRAIN/LSE-Health-UVigo/blob/main/data/273-ELAN-LSE-Health-UVigo.zip) using the ELAN program**: These files contein 3 Tiers explained below
 
-### 2. Download the videos from here after signing and submitting an EULA form
+#### 2. Download the videos from here after signing and submitting an EULA form
 
 ## Annotations:
 
