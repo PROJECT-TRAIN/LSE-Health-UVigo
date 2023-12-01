@@ -54,7 +54,9 @@ We provide two options for distribution:
 - **[Excel file](https://github.com/PROJECT-TRAIN/LSE-Health-UVigo/blob/main/data/LSE-Health-UVigo.xlsx)**: Includes the links to download the videos from youtube, meta data and all the annotations (segments, glosses and fingerspelled words)
 - **[273 annotation files](https://github.com/PROJECT-TRAIN/LSE-Health-UVigo/blob/main/data/273-ELAN-LSE-Health-UVigo.zip) using the ELAN program**: These files contain 3 Tiers explained below
 
-#### 2. Download the videos from here after signing and submitting an EULA form
+#### 2. Download files from the Zenodo platform after signing an EULA agreement of
+- the previous excel and ELAN files
+- 273 FHD videos spanning ~11 hours of topics related to diseases, symptoms, treatment, care, etc.
 
 ## Annotations:
 
