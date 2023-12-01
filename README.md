@@ -65,7 +65,7 @@ LSE-Health-UVigo has been annotated with the ELAN program. Annotators used three
     -  linguistic, like slight modifications of the sign due to relaxed execution (coded LAX), slight change of location in space (LOC), abnormal use of the non-dominant hand (MAN) and morphology changes as in plurals (MPH), or
     -  non-linguistic, like very short sign due to speed and large coarticulation SHO), partial oclussion of the sign with other body parts (OCC) or because out of the frame (OUT) and other gloss with similar signed appereance to the selected gloss (SIM).
 For the sake of completness, these variations are not filtered out in the distribution, just informed.
-- ** Tier 'Trad'** for the translation into Spanish and annotation of start and end of each sentence or partial sentence. Translation of a visual language to a writtten language is not a trivial task. Two-letter codes have been defined to note 8 types of special events regarding visual-to-written translation. The next subsection explains the strict annotation criteria.
+- **Tier 'Trad'** for the translation into Spanish and annotation of start and end of each sentence or partial sentence. Translation of a visual language to a writtten language is not a trivial task. Two-letter codes have been defined to note 8 types of special events regarding visual-to-written translation. The next subsection explains the strict annotation criteria.
 
 ### Annotation criteria:
 
@@ -87,7 +87,7 @@ The annotation criteria shared by all the annotators (4) were as follows:
     - When a deictic is used that replaces part of the text because they have previously located what they are mentioning there, and it is necessary for the sentence to make sense: [VD:"text replaced by the deictic"].
     - When a sign is temporarily defined for that discourse context, [T: signed word] is used.
 
-    The frequency of each type of annotation is: [MD: ] 906, [DL: ] 759, [B: ] 666, [S: ] 258, [V: ] 116, [GL: ] 70, [T: ] 60, [VD: ] 52
+    The frequency of each type of annotation is: [MD: ] 941, [DL: ] 841, [B: ] 680, [S: ] 265, [V: ] 123, [GL: ] 70, [T: ] 63, [VD: ] 52
 
 ## License
 
