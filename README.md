@@ -1,6 +1,3 @@
-
-
-
 # LSE-Health-UVigo Dataset
 
 The LSE-Health-UVigo dataset is a collection of 273 videos focused on health-related topics, presented in Spanish Sign Language (Lengua de Signos Española, LSE). The dataset offers comprehensive annotations and alignments for various linguistic elements within the videos.
@@ -13,7 +10,7 @@ The LSE-Health-UVigo dataset is a collection of 273 videos focused on health-rel
 - **Total Duration**: ~11 hours
 
 The dataset is acquired in studio conditions with blue chroma-key, no shadow effects and uniform illumination, at 25 fps and FHD. The added value of the dataset is he rich and rigorous hand-made annotations. Experts interpreters and deaf people were in charge of annotating the dataset with strict criteria explained below.
-A previous version of this dataset with less videos and annotations was distributed for the [2022 Sign Spotting Challenge at ECCV](https://chalearnlap.cvc.uab.cat/challenge/49/description/). The description of the former dataset, LSE_eSaude_UVIGO (ECCV'22), can be found [here](https://chalearnlap.cvc.uab.cat/dataset/42/description/). including the train/val/test splits for the two organized tracks (MSSL-multiple shot supervised learning, and OSLWL-one shot learning and weak labels). The results of the challenge with the description of the dataset, protocols and baseline models, as well as discussing top-winning solutions and future directions on the topic can be found in this [paper](https://dl.acm.org/doi/abs/10.1007/978-3-031-25085-9_13)
+A previous version of this dataset with less videos and annotations was distributed for the [2022 Sign Spotting Challenge at ECCV](https://chalearnlap.cvc.uab.cat/challenge/49/description/). The description of the former dataset, LSE_eSaude_UVIGO (ECCV'22), can be found [here](https://chalearnlap.cvc.uab.cat/dataset/42/description/), including the downloadable train/val/test splits for the two organized tracks (MSSL-multiple shot supervised learning, and OSLWL-one shot learning and weak labels). The results of the challenge with the description of the dataset, protocols and baseline models, as well as discussing top-winning solutions and future directions on the topic can be found in this [paper](https://dl.acm.org/doi/abs/10.1007/978-3-031-25085-9_13)
 
 ## Annotations
 
