@@ -17,9 +17,9 @@ A previous version of this dataset with less videos and annotations was distribu
 
 ## Annotations
 
-### 1. Video Translations to Spanish
+### 1. Translation from LSE to Spanish
 
-- **Description**: Each video is translated into Spanish, segmented into sentences and smaller segments.
+- **Description**: Each video is translated into Spanish, segmented and aligned into sentences and smaller segments.
 - **Total Segments**: 7,738
 
 ### 2. Sign Annotations
@@ -41,7 +41,7 @@ A previous version of this dataset with less videos and annotations was distribu
 ## Usage
 
 Researchers and practitioners in machine translation, linguistics, healthcare, and sign language interpretation may find this dataset valuable for:
-- Training machine learning models for sign language translation, sign spotting and Isolated sign language recognition
+- Training/testing machine learning models for sign language translation, sign spotting, isolated sign language recognition and fingerspelling detection/recognition.
 - Studying health-related sign language communication
 - Analyzing linguistic patterns and structures within sign language
 
@@ -64,7 +64,7 @@ LSE-Health-UVigo has been annotated with the ELAN program. Annotators used three
 
 - **Tier ‘M_Glosa’** for the location of the 105 selected glosses.
 - **Associated Tier ‘Var’** for annotating variants of the signed gloss. 3-letter codes have been defined to note 8 types of sign variations. These variations are:
-    -  linguistic, like slight modifications of the sign due to relaxed execution (coded LAX), slight change of location in space (LOC), abnormal use of the non-dominant hand (MAN) and morphology changes as in plurals (MPH), or
+    -  linguistic, like slight modifications of the sign due to relaxed execution (coded LAX), slight change of location in space (LOC), abnormal use of the non-dominant hand (MAN) and morphology changes as in distributed plurals (MPH), or
     -  non-linguistic, like very short sign due to speed and large coarticulation SHO), partial occlusion of the sign with other body parts (OCC) or because out of the frame (OUT) and other gloss with similar signed appearance to the selected gloss (SIM).
 For the sake of completeness, these variations are not filtered out in the distribution, just informed.
 - **Tier 'Trad'** for the translation into Spanish and annotation of start and end of each sentence or partial sentence. Translation of a visual language to a written language is not a trivial task. Two-letter codes have been defined to note 8 types of special events regarding visual-to-written translation. The next subsection explains the strict annotation criteria.
@@ -78,7 +78,7 @@ The annotation criteria shared by all the annotators (4) were as follows:
     - The end_timestamp for a sign is set as soon as the parameters hand configuration, palm orientation and movement and/or location start to change to a transition to the next sign.
     - As far as possible, transitions are not included in the annotated intervals.
     - A star ‘*’ prefix indicate that there’s slight drift from normal realization or that there's a OOV sign very similar visually. The reasons can be linguistic (MAN, LOC, MPH, LAX) or not linguistic (SHO, OCC, OUT, SIM)
-    - It is important to highlight the annotation of the plurals. In Spanish sign Language, plurals use to be performed by sign repetition. Annotations for plurals are coded as a single interval comprising all the concatenated repetitions. If there are two annotated signs of the same class_sign very close to each other it means that there’s another sign in the middle (not belonging to the annotated set). Plurals are usually marked as a morphology variation (MPH). The only special case corresponds to the glosses PERSON and its plural PERSON(M-RE), that are coded with different glosses-classes because the second repetition use to be smaller and relaxed, as a rebound without changing the hand configuration.
+    - Annotations for plurals are coded as a single interval comprising all the concatenated repetitions. Distributed plurals are usually marked as a morphology variation (MPH). The only special case corresponds to the glosses PERSON and its plural PERSON(M-RE), that are coded with different glosses-classes because the second repetition use to be smaller and relaxed, as a rebound without changing the hand configuration.
   
 - **For Translation**: The general criterion for segmentation (performed by a professional interpreter involved also in the recordings) was to adapt the text in OL (oral language) to resemble as closely as possible the signed LSE (Spanish Sign Language) and to segment complete phrases, or smaller particles if it results in more semantically coherent segments. Additionally, due to discursive and grammatical differences between OL and LSE, 8 specific types of annotations were defined and marked in brackets:
     - If the text in OL has a visual but not literal correspondence in LSE, it will be marked with the code "V" (visual) in brackets [V:original text].
