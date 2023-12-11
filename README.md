@@ -101,4 +101,8 @@ This dataset is a collaborative effort of the next research goups and entities:
 - [Galician Health Service (SERGAS)](http://www.sergas.es)
 Gratitude is extended to them for their contributions and support.
 
-For more details and access to the dataset, kindly refer to [link_to_dataset_repository].
+## Citation
+
+If you use this dataset for your own research, cite the next publication:
+
+Vázquez Enríquez, M, Castro, JLA, Fernandez, LD, Jacques Junior, JCS & Escalera, S 2023, ECCV 2022 Sign Spotting Challenge: Dataset, Design and Results. in L Karlinsky, T Michaeli & K Nishino (eds), Computer Vision – ECCV 2022 Workshops, Proceedings. Springer Science+Business Media, Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), vol. 13808 LNCS, pp. 225-242, 17th European Conference on Computer Vision, ECCV 2022, Tel Aviv, Israel, 23/10/2022. https://doi.org/10.1007/978-3-031-25085-9_13
